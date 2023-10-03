@@ -1,0 +1,15 @@
+{
+    "name": "ProCreations - iOS Shortcuts",
+    "short_name": "ProCreations",
+    "start_url": "./",
+    "background_color": "#FFFFFF",
+    "icons": [{ 
+
+    "src": "./assets/icon.png", 
+
+    "sizes": "64x64", 
+
+    "type": "image/png" 
+
+  }] 
+  }
