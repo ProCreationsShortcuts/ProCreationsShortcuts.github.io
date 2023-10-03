@@ -1,11 +1,11 @@
 {
     "name": "ProCreations - iOS Shortcuts",
     "short_name": "ProCreations",
-    "start_url": "./mainpage.html",
+    "start_url": "mainpage.html",
     "background_color": "#FFFFFF",
     "icons": [{ 
 
-    "src": "./assets/icon.jpeg", 
+    "src": "icon.jpeg", 
 
     "sizes": "64x64", 
 
